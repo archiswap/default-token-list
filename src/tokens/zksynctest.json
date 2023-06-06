@@ -1,1 +1,79 @@
-[]
+[
+  {
+    "chainId": 280,
+    "address": "0x0bfce1d53451b4a8175dd94e6e029f7d8a701e9c",
+    "name": "WBTC",
+    "symbol": "Wrapped BTC",
+    "decimals": 18
+  },
+  {
+    "chainId": 280,
+    "address": "0x9D29342309534095AC442fE5D255b3252aa770b5",
+    "name": "Aave",
+    "symbol": "AAVE",
+    "decimals": 18
+  },
+  {
+    "chainId": 280,
+    "address": "0x3e7676937A7E96CFB7616f255b9AD9FF47363D4b",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18
+  },
+  {
+    "chainId": 280,
+    "address": "0x0BfcE1D53451B4a8175DD94e6e029F7d8a701e9c",
+    "name": "Wrapped BTC",
+    "symbol": "wBTC",
+    "decimals": 8
+  },
+  {
+    "chainId": 280,
+    "address": "0x20b28B1e4665FFf290650586ad76E977EAb90c5D",
+    "name": "WETH",
+    "symbol": "WETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 280,
+    "address": "0xfcEd12dEbc831D3a84931c63687C395837D42c2B",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6
+  },
+  {
+    "chainId": 280,
+    "address": "0x5Cb6ac4358c077efFf57D638c458c9B4f4D06511",
+    "name": "stETH",
+    "symbol": "stETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 280,
+    "address": "0xb942a8146F6b434267B3085304A5Af6ee03b4Ce7",
+    "name": "testTokenZK",
+    "symbol": "ZK",
+    "decimals": 18
+  },
+  {
+    "chainId": 280,
+    "address": "0x68681D53d9B711B6cDCaE2016faE87A7a36c412c",
+    "name": "testTokenSYNC",
+    "symbol": "SYNC",
+    "decimals": 18
+  },
+  {
+    "chainId": 280,
+    "address": "0x0faf6df7054946141266420b43783387a78d82a9",
+    "name": "USD//C",
+    "symbol": "USDC",
+    "decimals": 6
+  },
+  {
+    "chainId": 280,
+    "address": "0x52cd904b5ca0aab368c070155f608d1f0d1e47b2",
+    "name": "SHIB",
+    "symbol": "Shiba Inu",
+    "decimals": 18
+  }
+]
