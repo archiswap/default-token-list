@@ -26,7 +26,7 @@
   {
     "chainId": 280,
     "address": "0x20b28B1e4665FFf290650586ad76E977EAb90c5D",
-    "name": "WETH",
+    "name": "Wrapped Ether",
     "symbol": "WETH",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/archiswap/default-token-list/master/src/icons/280/0x20b28B1e4665FFf290650586ad76E977EAb90c5D.png"
@@ -78,5 +78,74 @@
     "symbol": "SHIB",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/archiswap/default-token-list/master/src/icons/280/0x52cd904b5ca0Aab368C070155f608D1F0D1E47b2.png"
+  },
+
+
+
+
+
+  {
+    "chainId": 324,
+    "address": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/archiswap/default-token-list/master/src/icons/324/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0xBBeB516fb02a01611cBBE0453Fe3c580D7281011",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/archiswap/default-token-list/master/src/icons/324/0xBBeB516fb02a01611cBBE0453Fe3c580D7281011.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/archiswap/default-token-list/master/src/icons/324/0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0x493257fD37EDB34451f62EDf8D2a0C418852bA4C",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/archiswap/default-token-list/master/src/icons/324/0x493257fD37EDB34451f62EDf8D2a0C418852bA4C.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0xfC7E56298657B002b3e656400E746b7212912757",
+    "name": "zkUSD Dollar",
+    "symbol": "zkUSD",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/archiswap/default-token-list/master/src/icons/324/0xfC7E56298657B002b3e656400E746b7212912757.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0xFD282F16a64c6D304aC05d1A58Da15bed0467c71",
+    "name": "Pepe",
+    "symbol": "PEPE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/archiswap/default-token-list/master/src/icons/324/0xFD282F16a64c6D304aC05d1A58Da15bed0467c71.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0x4C23eDFAE637c6EA3Beb2393f9D3185CA60869FB",
+    "name": "testTokenZK",
+    "symbol": "ZK",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/archiswap/default-token-list/master/src/icons/324/0x4C23eDFAE637c6EA3Beb2393f9D3185CA60869FB.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0x14Cd7Df5340b8977cDd2053ECD7c786F002D7f5A",
+    "name": "testTokenSYNC",
+    "symbol": "SYNC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/archiswap/default-token-list/master/src/icons/324/0x14Cd7Df5340b8977cDd2053ECD7c786F002D7f5A.png"
   }
 ]
